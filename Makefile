@@ -1,2 +1,2 @@
-pasend: pasend.cpp
-	g++ -o pasend pasend.cpp
+pasend: pasend.c
+	gcc -o pasend pasend.c
